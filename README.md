@@ -28,12 +28,12 @@ A Python-based dashboard that helps students track study hours, attendance, exam
 ## Screenshots
 
 ### Login Page
-<img width="789" height="645" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/ce482789-3016-4ce5-bc4c-ce3957865986" />
-
+<img width="789" height="645" alt="Login" src="https://github.com/user-attachments/assets/5650cb73-a267-455c-a2b5-0a13c74b82aa" />
 
 
 ### Dashboard
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3284476d-cc50-4290-ab35-4b18ae2f4f3a" />
+<img width="1920" height="1089" alt="Dashboard" src="https://github.com/user-attachments/assets/afad9892-0494-483e-8a44-95d04f4de36e" />
+
 
 
 
