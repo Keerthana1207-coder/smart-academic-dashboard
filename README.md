@@ -1,51 +1,62 @@
-# Smart Academic Performance Dashboard
+# 📊 Study Planner Dashboard
 
-A Python-based dashboard that helps students track study hours, attendance, exam preparation progress, and academic goals.
+A study planner dashboard that combines Excel automation with Python to help organize study schedules, track progress, and visualize productivity.
 
-## Features
+---
 
-* User Login System
-* Attendance Tracking
-* Exam Progress Tracking
-* Subject-wise Goal Tracking
-* Study Streak Counter
-* Weekly Study Reports
-* Attendance Alert Popup
-* PDF Report Generation
-* Excel Report Export
-* Data Visualization using Matplotlib
-* Dark Theme GUI
+## 📌 About the Project
 
-## Technologies Used
+This project builds a planner/dashboard system that automates study schedule tracking using Python scripts along with Excel for data storage and visualization. It helps students plan subjects, track completed topics, and monitor overall study progress.
 
-* Python
-* Pandas
-* Tkinter
-* Matplotlib
-* ReportLab
-* Excel
+---
 
-## Screenshots
+## ✨ Features
 
-### Login Page
-<img width="789" height="645" alt="Login" src="https://github.com/user-attachments/assets/5650cb73-a267-455c-a2b5-0a13c74b82aa" />
+- Automated study schedule generation/tracking
+- Excel-based data storage for easy editing
+- Python scripts for processing and updating planner data
+- Progress visualization (charts/summary views in Excel)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend/Automation:** Python
+- **Data & Visualization:** Excel
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Keerthana1207-coder/study-planner-dashboard.git
+   ```
+2. Navigate to the project folder
+   ```bash
+   cd study-planner-dashboard
+   ```
+3. Install required Python packages (if any)
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the main script
+   ```bash
+   python main.py
+   ```
+5. Open the generated/updated Excel file to view your study planner
+
+---
+
+## 📸 Screenshots
+
+<img width="1920" height="1089" alt="Dashboard" src="https://github.com/user-attachments/assets/e325edf1-0c09-4014-9077-3d41849a815f" />
 
 
-### Dashboard
-<img width="1920" height="1089" alt="Dashboard" src="https://github.com/user-attachments/assets/afad9892-0494-483e-8a44-95d04f4de36e" />
+---
 
+## 👩‍💻 Author
 
-
-
-## Future Enhancements
-
-* User Registration
-* Password Change
-* Calendar-based Study Tracking
-* Monthly Reports
-* Cloud Data Storage
-
-## Author
-
-Keerthana P
-Electronics and Communication Engineering Student
+**Keerthana P**
+- LinkedIn: [linkedin.com/in/keerthana-p-ece](https://www.linkedin.com/in/keerthana-p-ece)
+- Portfolio: [keerthanap-portfolio.vercel.app](https://keerthanap-portfolio.vercel.app)
